@@ -4,7 +4,6 @@
   <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=fira+code&duration=5000&pause=100&random=false&width=835&lines=Hi+There;I'm+Dikachi" alt="typing svg" /></a>
 </h1>
 
-<h3 align="center">A software developer</h3>
 <p align="center">Send a message</p>
 
 <br/>
@@ -24,8 +23,7 @@
 <hr/>
 
 
-<div>
   ![snake gif](https://github.com/Dikachi-official/Dikachi-official/blob/output/github-contribution-grid-snake.gif)
-</div>
+
 
 
