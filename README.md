@@ -9,6 +9,17 @@
 
 <br/>
 
+<div align="center">
+  
+  <a href="mailto:nwokontadikachi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail=333333?style=for=the=badge&logo=gmail&logoColor=red" target="_blank"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dikachi-c-249699213/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+  
+</div>
+
 
 
 ![snake gif](https://github.com/Dikachi-official/Dikachi-official/blob/output/github-contribution-grid-snake.gif)
