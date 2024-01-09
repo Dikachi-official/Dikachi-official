@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
 
 <h1 align="center">
-  <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=fira+code&duration=5000&pause=100&random=false&width=835&lines=Hi+There;I'm+Dikachi" alt="typing svg" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=fira+code&duration=5000&pause=100&random=false&width=1035&lines=Hi+There;I'm+Dikachi" alt="typing svg" /></a>
 </h1>
 
 <p align="center">Send a message</p>
