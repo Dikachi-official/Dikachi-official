@@ -12,7 +12,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" border=1>
   
   <a href="mailto:nwokontadikachi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
@@ -24,6 +24,32 @@
 </div>
 
 
+<br/>
+
+<h2>My personal values and work ethics</h2>
+<p>✨ I want to build strong relationships with my clients.</p>
+
+<p>✨ I believe that a good working relationship is built on mutual trust and respect.</p>
+
+<p>✨ I value open communication and strive to keep you updated on progress every step of the way.</p>
+
+<p>✨ I am a team player and enjoy collaborating with others to achieve a common goal.</p>
+
+<p>✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.</p>
+
+<p>✨ Preferred Python frameworks ✔Python, ✔Django, ✔Flask.</p>
+
+<p>✨ Preferred JS frameworks ✔TypeScript, ✔React.js</p>
+
+<p>✨ Preferred style frameworks ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI</p>
+
+<p>✨ Database options ✔MongoDB, ✔MySQL, ✔PostgreSQL</p>
+
+<p>✨ Web hosting options ✔ Azure service ✔ AWS Services - EC2, S3, and Lambda ✔ cPanel service, ✔GoDaddy</p>
+
+<p>✨ Payment gateway integration ✔Stripe, ✔PayPal</p>
+
+<br/>
 <hr/>
 
 
