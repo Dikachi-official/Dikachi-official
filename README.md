@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
 
 <h1 align="center">
-  <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=fira+code&duration=5000&pause=100&random=false&width=1035&lines=Hi+There;I'm+Dikachi" alt="typing svg" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=980&size=50&duration=3000&pause=1000&random=false&width=700&height=71&lines=Hi+There;I'm+Dikachi" alt="Typing SVG" /></a>
 </h1>
 <p>- 🔭 Full-stack developer with 3+ years of experience designing and building scalable, high-performance web applications</p>
 <p>- 🌱 Proficient in front-end technologies like React, HTML, CSS as well as back-end technologies like Django, Python</p>
