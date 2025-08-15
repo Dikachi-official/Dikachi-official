@@ -3,8 +3,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=980&size=50&duration=3000&pause=1000&random=false&width=700&height=71&lines=Hi+There;I'm+Dikachi" alt="Typing SVG" /></a>
 </h1>
-<p>- 🔭 Full-stack developer with 4+ years of experience designing and building scalable, high-performance web applications</p>
-<p>- 🌱 Proficient in front-end technologies like React, HTML, CSS as well as back-end technologies like Django, Python</p>
+<p>- 💻 Software developer with experience designing and building scalable, high-performance web applications</p>
+<p>- 🧠 Passionate about sharing clean, practical code with real-world impact</p>
 <p>- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP</p>
 <p>- 😍 Developed some AI Apps and integrated with web and ChatGPT. - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</p>
 
